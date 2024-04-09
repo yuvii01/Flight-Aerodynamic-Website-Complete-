@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@keyframes updown {
+    from {
+        top: 200px;
+    }
+    to {
+        top: 250px;
+    }
+  }
